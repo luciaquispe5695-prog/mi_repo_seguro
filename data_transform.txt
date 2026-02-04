@@ -1,3 +1,4 @@
 1. Transformación de nombre con Mayuscula
 2. Reemplazar valores nulos del atributo nacionalidad in ('Peruano')
 3. Reemplazar el valor 'Ñ' por 'N'
+4. Para el campo DNI considerar 8 digitos
